@@ -1,0 +1,6 @@
+C:\Users\lodol\source\repos\Modelo_LaboratorioII\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lodol\source\repos\Modelo_LaboratorioII\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lodol\source\repos\Modelo_LaboratorioII\Entidades\bin\Debug\Entidades.dll
+C:\Users\lodol\source\repos\Modelo_LaboratorioII\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lodol\source\repos\Modelo_LaboratorioII\Entidades\obj\Debug\Entidades.dll
+C:\Users\lodol\source\repos\Modelo_LaboratorioII\Entidades\obj\Debug\Entidades.pdb
