@@ -1,0 +1,5 @@
+C:\Users\lodol\source\repos\Lodola.Tomas.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lodol\source\repos\Lodola.Tomas.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\lodol\source\repos\Lodola.Tomas.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lodol\source\repos\Lodola.Tomas.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\lodol\source\repos\Lodola.Tomas.2A\Entidades\obj\Debug\Entidades.pdb
